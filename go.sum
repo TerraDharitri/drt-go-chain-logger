@@ -1,5 +1,5 @@
-github.com/TerraDharitri/drt-go-chain-core v0.0.1 h1:y3O6PBU/s+pocY+mIzxm0LKTPsxobJ+qD4lpbPB0NnA=
-github.com/TerraDharitri/drt-go-chain-core v0.0.1/go.mod h1:qfU1Sw8AbPbOceOhvXFbpnSheA1oje2tGb+PDDKufuY=
+github.com/TerraDharitri/drt-go-chain-core v0.0.3 h1:OZ3puqoAYTQy1TaoPInoRgYxfw/iEbet9yGtWsnQnPc=
+github.com/TerraDharitri/drt-go-chain-core v0.0.3/go.mod h1:qfU1Sw8AbPbOceOhvXFbpnSheA1oje2tGb+PDDKufuY=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/denisbrodbeck/machineid v1.0.1 h1:geKr9qtkB876mXguW2X6TU4ZynleN6ezuMSRhl4D7AQ=

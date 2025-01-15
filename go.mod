@@ -3,7 +3,7 @@ module github.com/TerraDharitri/drt-go-chain-logger
 go 1.20
 
 require (
-	github.com/TerraDharitri/drt-go-chain-core v0.0.1
+	github.com/TerraDharitri/drt-go-chain-core v0.0.3
 	github.com/gogo/protobuf v1.3.2
 	github.com/stretchr/testify v1.10.0
 )
