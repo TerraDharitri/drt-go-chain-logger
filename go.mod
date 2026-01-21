@@ -1,9 +1,9 @@
 module github.com/TerraDharitri/drt-go-chain-logger
 
-go 1.23.7
+go 1.23
 
 require (
-	github.com/TerraDharitri/drt-go-chain-core v0.1.1
+	github.com/TerraDharitri/drt-go-chain-core v1.0.1
 	github.com/gogo/protobuf v1.3.2
 	github.com/stretchr/testify v1.7.0
 )
